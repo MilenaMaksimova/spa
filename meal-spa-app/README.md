@@ -1,3 +1,9 @@
+# Проект: Meal SPA App
+
+Проект доступен онлайн по адресу:  
+👉 [https://MilenaMaksimova.github.io/spa](https://MilenaMaksimova.github.io/spa)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
